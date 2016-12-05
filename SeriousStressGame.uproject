@@ -23,8 +23,6 @@
 	"TargetPlatforms": [
 		"LinuxNoEditor",
 		"MacNoEditor",
-		"WindowsNoEditor",
-		"XboxOne",
-		"PS4"
+		"WindowsNoEditor"
 	]
 }
